@@ -30,7 +30,7 @@ Bem-vindo ao meu perfil no GitHub! 👋
 ## Contato
 
 - 📧 Email: [manuelantonio476@gmail.com](mailto:manuelantonio476@gmail.com)
-- 🌐 LinkedIn: [Manuel Da conceiçao António](https://www.linkedin.com/in/manuel-da-concei%C3%A7%C3%A3o-ant%C3%B3nio-265b97277)
+- 🌐 LinkedIn: [Manuel Da conceiçao António](https://www.linkedin.com/in/manuel-da-concei%C3%A7%C3%A3o-ant%C3%B3nio-265b97277/)
 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato! Estou aberto a colaborações e novas oportunidades.
